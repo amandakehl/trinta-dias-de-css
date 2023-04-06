@@ -20,7 +20,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 # Desafios
 
-* Dia 01 - Ícone de mídia social em camadas
+* [Dia 01 - Ícone de mídia social em camadas](#desafio-um)
 * Dia 02 - Loader animado
 * Dia 03 - Mudança de cor de texto quando entra em outra div
 * Dia 04 - Botão com efeito
@@ -52,10 +52,13 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * Dia 30 - Fogos de artificio
 
 ## Desafio Um
+<hr><br>
 
-[meu código]() <br>
-[vídeo de referência](https://www.youtube.com/watch?v=C8wSNZqktOM&ab_channel=OnlineTutorials); <br><br>
-✏ o que aprendi: <br>
-[CSS transitions](https://www.w3schools.com/css/css3_transitions.asp): cria efeitos de transição; <br>
-[CSS :nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php): seletor que permite alterar os filhos da mesma classe; <br>
-[CSS transform](https://www.w3schools.com/cssref/css3_pr_transform.php): aplica efeito 3d nos elementos, permitindo girar, dimensionar, mover, inclinar, etc;
+<img src="https://user-images.githubusercontent.com/73315527/230508351-e84bc76b-c186-426a-b2c4-71d423a8ce2e.gif">
+
+[Meu código]() <br>
+[Vídeo de referência](https://www.youtube.com/watch?v=C8wSNZqktOM&ab_channel=OnlineTutorials); <br><br>
+✏ O que aprendi: <br>
+* [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp);
+* [CSS :nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
+* [CSS transform](https://www.w3schools.com/cssref/css3_pr_transform.php).
