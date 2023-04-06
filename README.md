@@ -56,7 +56,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 <img src="https://user-images.githubusercontent.com/73315527/230508351-e84bc76b-c186-426a-b2c4-71d423a8ce2e.gif">
 
-[Meu código]() <br>
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia-um) <br>
 [Vídeo de referência](https://www.youtube.com/watch?v=C8wSNZqktOM&ab_channel=OnlineTutorials); <br><br>
 ✏ O que aprendi: <br>
 * [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp);
