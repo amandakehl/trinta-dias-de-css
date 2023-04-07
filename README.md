@@ -52,11 +52,11 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * Dia 30 - Fogos de artificio
 
 ## Desafio Um
-<hr><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73315527/230508351-e84bc76b-c186-426a-b2c4-71d423a8ce2e.gif">
 
-[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia-um) 
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2001) 
 
 ✏ O que aprendi: <br>
 * [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp);
@@ -66,11 +66,11 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 <br>
 
 ## Desafio Dois
-<hr><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73315527/230515779-0ca07a7a-5d04-4e74-8a55-dfa06442e89a.gif">
 
-[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia-dois)
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2002)
 
 ✏ O que aprendi: <br>
 * [Animations](https://www.w3schools.com/css/css3_animations.asp).
@@ -79,11 +79,11 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 <br>
 
 ## Desafio Três
-<hr><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73315527/230525215-2efa68d1-76c2-4561-955a-8debab0ec3be.gif">
 
-[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia-tres)
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2003)
 
 ✏ O que aprendi: <br>
 * [Animations](https://www.w3schools.com/css/css3_animations.asp).
