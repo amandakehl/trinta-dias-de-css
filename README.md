@@ -53,8 +53,9 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ## Desafio Um
 <br>
-
 <img src="https://user-images.githubusercontent.com/73315527/230508351-e84bc76b-c186-426a-b2c4-71d423a8ce2e.gif">
+Ícone de mídia social em camadas<br>
+<br>
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2001) 
 
@@ -69,6 +70,8 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 <br>
 
 <img src="https://user-images.githubusercontent.com/73315527/230515779-0ca07a7a-5d04-4e74-8a55-dfa06442e89a.gif">
+Loader animado<br>
+<br>
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2002)
 
@@ -82,6 +85,8 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 <br>
 
 <img src="https://user-images.githubusercontent.com/73315527/230527389-cd7df187-88c2-41bd-bf28-43e0c0c4bd0a.gif">
+Mudança de cor do texto quando entre em outra div<br>
+<br>
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2003)
 
@@ -94,6 +99,8 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 <br>
 
 <img src="https://user-images.githubusercontent.com/73315527/230531420-23630e18-0a03-492c-ba84-67e4846eac79.gif">
+Botão com efeito<br>
+<br>
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2004)
 
@@ -107,6 +114,8 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 <br>
 
 <img src="https://user-images.githubusercontent.com/73315527/230539859-375d144f-2196-4d63-9338-52c3b323aa1a.gif">
+Efeito pulsar<br>
+<br>
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2005)
 
