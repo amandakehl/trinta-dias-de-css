@@ -22,7 +22,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 * [Dia 01 - Ícone de mídia social em camadas](#desafio-um)
 * [Dia 02 - Loader animado](#desafio-dois)
-* Dia 03 - Mudança de cor de texto quando entra em outra div
+* [Dia 03 - Mudança de cor de texto quando entra em outra div](#desafio-três)
 * Dia 04 - Botão com efeito
 * Dia 05 - Efeito pulsar
 * Dia 06 - Efeito lightning text
@@ -71,6 +71,19 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 <img src="https://user-images.githubusercontent.com/73315527/230515779-0ca07a7a-5d04-4e74-8a55-dfa06442e89a.gif">
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia-dois)
+
+✏ O que aprendi: <br>
+* [Animations](https://www.w3schools.com/css/css3_animations.asp).
+
+
+<br>
+
+## Desafio Três
+<hr><br>
+
+<img src="https://user-images.githubusercontent.com/73315527/230525215-2efa68d1-76c2-4561-955a-8debab0ec3be.gif">
+
+Meu código: 
 
 ✏ O que aprendi: <br>
 * [Animations](https://www.w3schools.com/css/css3_animations.asp).
