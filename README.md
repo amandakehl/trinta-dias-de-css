@@ -24,7 +24,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * [Dia 02 - Loader animado](#desafio-dois)
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#desafio-três)
 * [Dia 04 - Botão com efeito](#desafio-quatro)
-* Dia 05 - Efeito pulsar
+* [Dia 05 - Efeito pulsar](#desafio-cinco)
 * Dia 06 - Efeito lightning text
 * Dia 07 - Preloader animado
 * Dia 08 - Coração batendo
@@ -59,9 +59,9 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2001) 
 
 ✏ O que aprendi: <br>
-* [Transitions](https://www.w3schools.com/css/css3_transitions.asp);
+* [transitions](https://www.w3schools.com/css/css3_transitions.asp);
 * [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
-* [Transform](https://www.w3schools.com/cssref/css3_pr_transform.php).
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.php).
 
 <br>
 
@@ -73,7 +73,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2002)
 
 ✏ O que aprendi: <br>
-* [Animations](https://www.w3schools.com/css/css3_animations.asp).
+* [animations](https://www.w3schools.com/css/css3_animations.asp).
 
 
 <br>
@@ -86,7 +86,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2003)
 
 ✏ O que aprendi: <br>
-* [Animations](https://www.w3schools.com/css/css3_animations.asp).
+* [animations](https://www.w3schools.com/css/css3_animations.asp).
 
 <br>
 
@@ -99,4 +99,17 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ✏ O que aprendi: <br>
 * [::after](https://www.w3schools.com/cssref/sel_after.php);
-* [::before](https://www.w3schools.com/cssref/sel_before.php);
+* [::before](https://www.w3schools.com/cssref/sel_before.php).
+
+<br>
+
+## Desafio Cinco
+<br>
+
+<img src="https://user-images.githubusercontent.com/73315527/230539859-375d144f-2196-4d63-9338-52c3b323aa1a.gif">
+
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2005)
+
+✏ O que aprendi: <br>
+* [box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow);
+* [drop-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow);
