@@ -80,7 +80,7 @@ ul li:hover span {
   box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.05);
 }
 
-/* camadas */
+/* layers */
 
 ul li:hover span:nth-child(1) {
   transform: translate(0px, 0px);
@@ -107,7 +107,7 @@ ul li:hover span:nth-child(5) {
   opacity: 1;
 }
 
-/* cores */
+/* colors */
 
 ul li:nth-child(1):hover span {
   background-color: var(--facebok);

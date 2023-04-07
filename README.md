@@ -23,7 +23,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * [Dia 01 - Ícone de mídia social em camadas](#desafio-um)
 * [Dia 02 - Loader animado](#desafio-dois)
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#desafio-três)
-* Dia 04 - Botão com efeito
+* [Dia 04 - Botão com efeito](#desafio-quatro)
 * Dia 05 - Efeito pulsar
 * Dia 06 - Efeito lightning text
 * Dia 07 - Preloader animado
@@ -59,9 +59,9 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2001) 
 
 ✏ O que aprendi: <br>
-* [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp);
-* [CSS :nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
-* [CSS transform](https://www.w3schools.com/cssref/css3_pr_transform.php).
+* [Transitions](https://www.w3schools.com/css/css3_transitions.asp);
+* [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
+* [Transform](https://www.w3schools.com/cssref/css3_pr_transform.php).
 
 <br>
 
@@ -87,3 +87,16 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ✏ O que aprendi: <br>
 * [Animations](https://www.w3schools.com/css/css3_animations.asp).
+
+<br>
+
+## Desafio Quatro
+<br>
+
+<img src="https://user-images.githubusercontent.com/73315527/230531420-23630e18-0a03-492c-ba84-67e4846eac79.gif">
+
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2004)
+
+✏ O que aprendi: <br>
+* [::after](https://www.w3schools.com/cssref/sel_after.php);
+* [::before](https://www.w3schools.com/cssref/sel_before.php);
