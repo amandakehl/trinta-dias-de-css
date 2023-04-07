@@ -81,7 +81,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 ## Desafio Três
 <br>
 
-<img src="https://user-images.githubusercontent.com/73315527/230525215-2efa68d1-76c2-4561-955a-8debab0ec3be.gif">
+<img src="https://user-images.githubusercontent.com/73315527/230527389-cd7df187-88c2-41bd-bf28-43e0c0c4bd0a.gif">
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2003)
 
