@@ -70,7 +70,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 <img src="https://user-images.githubusercontent.com/73315527/230515779-0ca07a7a-5d04-4e74-8a55-dfa06442e89a.gif">
 
-Meu código: 
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia-dois)
 
 ✏ O que aprendi: <br>
 * [Animations](https://www.w3schools.com/css/css3_animations.asp).
