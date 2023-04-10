@@ -53,7 +53,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ## Desafio Um
 <br>
-<img src="https://user-images.githubusercontent.com/73315527/230508351-e84bc76b-c186-426a-b2c4-71d423a8ce2e.gif">
+<img src="https://user-images.githubusercontent.com/73315527/230810762-bef720e2-8dba-410f-9929-f2f29c4afd47.gif">
 Ícone de mídia social em camadas<br>
 <br>
 
@@ -98,7 +98,7 @@ Mudança de cor do texto quando entre em outra div<br>
 ## Desafio Quatro
 <br>
 
-<img src="https://user-images.githubusercontent.com/73315527/230531420-23630e18-0a03-492c-ba84-67e4846eac79.gif">
+<img src="https://user-images.githubusercontent.com/73315527/230810361-ba86e322-5fb9-4319-80af-98c72a7a4de8.gif">
 Botão com efeito<br>
 <br>
 
