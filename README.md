@@ -25,8 +25,8 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#desafio-três)
 * [Dia 04 - Botão com efeito](#desafio-quatro)
 * [Dia 05 - Efeito pulsar](#desafio-cinco)
-* Dia 06 - Efeito lightning text
-* Dia 07 - Preloader animado
+* [Dia 06 - Efeito lightning text](#desafio-seis)
+* [Dia 07 - Preloader animado](#desafio-sete)
 * Dia 08 - Coração batendo
 * Dia 09 - Pendulo de Newton
 * Dia 10 - Animação texto alternando
@@ -136,3 +136,18 @@ Lightning text <br>
 
 ✏ O que aprendi: <br>
 * [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
+
+<br>
+
+## Desafio Sete
+<br>
+
+<img src="https://user-images.githubusercontent.com/73315527/230809840-cdafaf98-9360-41b9-9770-927c73ae8c81.gif">
+Loader animado <br>
+<br>
+
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2007)
+
+✏ O que aprendi: <br>
+* [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
+* [animations](https://www.w3schools.com/css/css3_animations.asp).
