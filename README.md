@@ -122,3 +122,17 @@ Efeito pulsar<br>
 ✏ O que aprendi: <br>
 * [box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow);
 * [drop-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow);
+
+<br>
+
+## Desafio Seis
+<br>
+
+<img src="https://user-images.githubusercontent.com/73315527/230807975-cd849955-3346-4743-a082-84c53f63cde1.gif">
+Lightning text <br>
+<br>
+
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2006)
+
+✏ O que aprendi: <br>
+* [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
