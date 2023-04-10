@@ -164,5 +164,4 @@ Coração batendo<br>
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2008)
 
 ✏ O que aprendi: <br>
-* [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
 * [animations](https://www.w3schools.com/css/css3_animations.asp).
