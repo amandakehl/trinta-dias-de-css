@@ -27,7 +27,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * [Dia 05 - Efeito pulsar](#desafio-cinco)
 * [Dia 06 - Efeito lightning text](#desafio-seis)
 * [Dia 07 - Preloader animado](#desafio-sete)
-* Dia 08 - Coração batendo
+* [Dia 08 - Coração batendo](#desafio-oito)
 * Dia 09 - Pendulo de Newton
 * Dia 10 - Animação texto alternando
 * Dia 11 - Botão com efeito hover
@@ -113,7 +113,7 @@ Botão com efeito<br>
 ## Desafio Cinco
 <br>
 
-<img src="https://user-images.githubusercontent.com/73315527/230539859-375d144f-2196-4d63-9338-52c3b323aa1a.gif">
+<img src="https://user-images.githubusercontent.com/73315527/230812693-6f5df027-7811-4dd4-abda-aca44e1848fc.gif">
 Efeito pulsar<br>
 <br>
 
@@ -147,6 +147,21 @@ Loader animado <br>
 <br>
 
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2007)
+
+✏ O que aprendi: <br>
+* [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
+* [animations](https://www.w3schools.com/css/css3_animations.asp).
+
+<br>
+
+## Desafio Oito
+<br>
+
+<img src="https://user-images.githubusercontent.com/73315527/230812839-d273dbf1-0bfd-4a63-b5a2-960ad1554e4f.gif">
+Coração batendo<br>
+<br>
+
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2008)
 
 ✏ O que aprendi: <br>
 * [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
