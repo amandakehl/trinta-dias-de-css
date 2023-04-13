@@ -29,7 +29,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * [Dia 07 - Preloader animado](#desafio-sete)
 * [Dia 08 - Coração batendo](#desafio-oito)
 * [Dia 09 - Pêndulo de Newton](#desafio-nove)
-* Dia 10 - Animação texto alternando
+* [Dia 10 - Animação de Digitação de Textos](#desafio-dez)
 * Dia 11 - Botão com efeito hover
 * Dia 12 - Efeito de preenchimento ao passar o mouse
 * Dia 13 - Loading com efeito
@@ -179,3 +179,17 @@ Pêndulo de Newton<br>
 
 ✏ O que aprendi: <br>
 * [first-child](https://www.w3schools.com/cssref/sel_firstchild.php)
+
+<br>
+
+## Desafio Dez
+<br>
+
+<img src="https://user-images.githubusercontent.com/73315527/231899097-6062386a-a05f-439c-a285-ed1bb8d09e2c.gif">
+Animação de Digitação de Textos<br>
+<br>
+
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2010)
+
+✏ O que aprendi: <br>
+* [animations](https://www.w3schools.com/css/css3_animations.asp)

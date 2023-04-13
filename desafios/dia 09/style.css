@@ -57,22 +57,22 @@ body {
   }
 }
 
-  .loader span:last-child {
-    animation: animate2 1s linear infinite;
-    animation-delay: 0.5s;
-  }
+.loader span:last-child {
+  animation: animate2 1s linear infinite;
+  animation-delay: 0.5s;
+}
 
-  @keyframes animate2 {
-    0% {
-      transform: rotate(0deg);
-    }
-    25% {
-      transform: rotate(-60deg);
-    }
-    50% {
-      transform: rotate(0deg);
-    }
-    100% {
-      transform: rotate(0deg);
-    }
+@keyframes animate2 {
+  0% {
+    transform: rotate(0deg);
   }
+  25% {
+    transform: rotate(-60deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
