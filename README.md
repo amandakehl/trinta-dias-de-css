@@ -28,7 +28,7 @@ Seguindo a ideia da [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 * [Dia 06 - Efeito lightning text](#desafio-seis)
 * [Dia 07 - Preloader animado](#desafio-sete)
 * [Dia 08 - Coração batendo](#desafio-oito)
-* Dia 09 - Pendulo de Newton
+* [Dia 09 - Pêndulo de Newton](#desafio-nove)
 * Dia 10 - Animação texto alternando
 * Dia 11 - Botão com efeito hover
 * Dia 12 - Efeito de preenchimento ao passar o mouse
@@ -76,7 +76,7 @@ Loader animado<br>
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2002)
 
 ✏ O que aprendi: <br>
-* [animations](https://www.w3schools.com/css/css3_animations.asp).
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
 
 
 <br>
@@ -91,7 +91,7 @@ Mudança de cor do texto quando entre em outra div<br>
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2003)
 
 ✏ O que aprendi: <br>
-* [animations](https://www.w3schools.com/css/css3_animations.asp).
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
 
 <br>
 
@@ -121,7 +121,7 @@ Efeito pulsar<br>
 
 ✏ O que aprendi: <br>
 * [box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow);
-* [drop-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow);
+* [drop-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow).
 
 <br>
 
@@ -135,7 +135,7 @@ Lightning text <br>
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2006)
 
 ✏ O que aprendi: <br>
-* [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php);
+* [:nth-child(n)](https://www.w3schools.com/cssref/sel_nth-child.php)
 
 <br>
 
@@ -164,4 +164,18 @@ Coração batendo<br>
 [Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2008)
 
 ✏ O que aprendi: <br>
-* [animations](https://www.w3schools.com/css/css3_animations.asp).
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+
+<br>
+
+## Desafio Nove
+<br>
+
+<img src="https://user-images.githubusercontent.com/73315527/231893446-90ba0150-8e9b-4058-9d47-47779bc73f41.gif">
+Pêndulo de Newton<br>
+<br>
+
+[Meu código](https://github.com/amandakehl/trinta-dias-de-css/tree/main/desafios/dia%2009)
+
+✏ O que aprendi: <br>
+* [first-child](https://www.w3schools.com/cssref/sel_firstchild.php)
